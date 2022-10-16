@@ -22,6 +22,12 @@
             "Shurjopayv3\\SpPluginLaravel\\": "src/"
         }
     },
-
-    "require": {}
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Shurjopayv3\\SpPluginLaravel\\ShurjopayServiceProvider"
+            ]
+        }
+    }
 }
