@@ -1,0 +1,19 @@
+{
+    "name": "shurjopayv3/sp-plugin-laravel",
+    "description": "\"ONLINE PAYMENT GATEWAY\"",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Shurjopayv3\\SpPluginLaravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rayhan-khan-Ridoy",
+            "email": "kredoy416@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
